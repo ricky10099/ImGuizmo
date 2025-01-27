@@ -5,3 +5,5 @@ build/
 *.vcxproj.filters
 example/
 bin-int/
+bin/Debug
+bin/Release
